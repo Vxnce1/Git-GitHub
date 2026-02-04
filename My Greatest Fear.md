@@ -10,4 +10,4 @@
 * Being attacked during the night
 * Making the **wrong** life choices and regretting them later
 
-![Snake](https://www.istockphoto.com/photos/snakes-reptiles)
+![Snake](https://www.istockphoto.com/photo/cobra-snake-gm158895551-22592556)
