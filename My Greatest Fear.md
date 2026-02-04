@@ -10,4 +10,4 @@
 * Being attacked during the night
 * Making the **wrong** life choices and regretting them later
 
-![Alt text for the image](file_path/image_name.jpg)
+![My dog image](C:\Users\Downloads\image.jpg)
