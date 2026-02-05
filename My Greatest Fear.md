@@ -10,4 +10,10 @@
 * Being attacked during the night
 * Making the **wrong** life choices and regretting them later
 
-
+### Top 3 Most Common Fears
+1. Acrophobia
+   - Fear of Heights
+2. Aerophobia
+   - Fear of Flying
+3. Arachnophobia
+   - Fear of Spiders
