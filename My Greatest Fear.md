@@ -13,7 +13,7 @@
 ### Top 3 Most Common Fears
 1. Acrophobia
    - Fear of Heights
-2. ==Aerophobia==
+2. Aerophobia
    - Fear of Flying
 3. Arachnophobia
    - Fear of Spiders
