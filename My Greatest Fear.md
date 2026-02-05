@@ -19,3 +19,5 @@
    - Fear of Spiders
 
 ---
+
+![Image](https://github.com/user-attachments/assets/40840fcc-2a89-474f-876a-bafd5dd4d1f7)
