@@ -5,4 +5,4 @@ It demonstrates the basics of Markdown formatting while expressing my greatest f
 
 ![Snake](https://github.com/Vxnce1/Git-GitHub/blob/fbfec824d1a882b13c19a5e59318f6518425f72e/mangrove-snake-full-width.jpg.thumb.960.960.jpg)
 
-Snakes are **scary**! :skull:
+Snakes are ***scary***! :skull:
